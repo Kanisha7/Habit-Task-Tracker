@@ -1,5 +1,4 @@
 # Habit-Task-Tracker
-# Habit & Task Tracker
 
 ## Overview
 The **Habit & Task Tracker** is a simple web-based application built using **Flask** and **SQLAlchemy**. It helps users track their daily habits and tasks, allowing them to mark them as completed.
